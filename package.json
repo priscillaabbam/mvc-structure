@@ -1,0 +1,11 @@
+{
+  "name": "day-4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "First MVC folder structure",
+  "author": "Priscill Abbam",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
